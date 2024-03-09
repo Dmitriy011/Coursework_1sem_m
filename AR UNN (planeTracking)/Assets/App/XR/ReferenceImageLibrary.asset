@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5699366603263272257
+  m_GuidHigh: 2574371280730048952
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4842019455093449895
+      m_GuidHigh: 17178897376340269987
+    m_SerializedTextureGuid:
+      m_GuidLow: 9683973955697048172
+      m_GuidHigh: 5080704555923809514
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5395961718464605658
+      m_GuidHigh: 14702874671751130285
+    m_SerializedTextureGuid:
+      m_GuidLow: 17718323949917185665
+      m_GuidHigh: 425033072081177960
+    m_Size: {x: 0.15, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: marker2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4680467565641235830
+      m_GuidHigh: 10967218258499315889
+    m_SerializedTextureGuid:
+      m_GuidLow: 8274385675092424583
+      m_GuidHigh: 17957234347484201674
+    m_Size: {x: 0.15, y: 0.20372094}
+    m_SpecifySize: 1
+    m_Name: Pig 2
+    m_Texture: {fileID: 0}

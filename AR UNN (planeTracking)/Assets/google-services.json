@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "972326133842",
+    "firebase_url": "https://ar-unn-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ar-unn",
+    "storage_bucket": "ar-unn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972326133842:android:a5d38d21d213b7a517ff8b",
+        "android_client_info": {
+          "package_name": "com.unn.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972326133842-sf7m5ffulqsnd7c3tv4mij459pf16n2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unn.ar",
+            "certificate_hash": "0819538c758776c68eb20455eb0d0900166d386a"
+          }
+        },
+        {
+          "client_id": "972326133842-blmdoo54ke5iijss5dn1k2qkgktt5su6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRT6YECwYZlsuBey-0X4tPO6vvcmSyAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972326133842-blmdoo54ke5iijss5dn1k2qkgktt5su6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972326133842-aeq01rvu9ga54hln0qk0c5fm2vbmlrcf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unn.ar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
